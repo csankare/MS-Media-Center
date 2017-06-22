@@ -1,0 +1,6 @@
+{
+    "name": "whistiti",
+    "require": {
+        "imagine/imagine": "0.7.1"
+    }
+}
